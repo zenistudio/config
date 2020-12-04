@@ -1,0 +1,94 @@
+{
+  "ads_config": {
+    "ad_waterfall": [
+      "unity",
+      "mopub"
+
+    ],
+    "ad_time": 0,
+    "ad_model": [
+      {
+        "name": "unity",
+        "app_id": "3712839",
+        "banner_id": "banner",
+        "popup_id": "video",
+        "reward_id": "video"
+      },
+      {
+        "name": "mopub",
+        "app_id": "abc",
+        "banner_id": "abc",
+        "popup_id": "abc",
+        "reward_id": "abc"
+      }
+    ]
+  },
+"album_config": { "album": [ "bts", "jhope", "jimin", "jin", "jungkook", "rm", "suga", "v", "bt21", "fanart" ] },
+  "update_config": {
+    "enable": false,
+    "versionCode": 10,
+    "versionName": "1.1",
+    "title": "Update the new version",
+    "message": "Update the app now to get more photos and fsdf"
+  },
+  "redirect_config": {
+    "enable": false,
+    "title": "sadddd",
+    "message": "Because the appjlfksdjlf please install new app to conitue using",
+    "url": "https://google.com"
+  },
+  "fanpage_config": {
+    "fanpage": [
+      {
+        "link": "https://www.facebook.com/groups/2070634986375449/",
+        "target": "us",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/484856755642988/",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/1389287274562133/",
+        "target": "def",
+        "enable": true
+      }
+    ]
+  },
+  "shopping_config": {
+    "shopping": [
+      {
+        "data_file_url": "https://www.dropbox.com/s/arxu8570dfih293/item_sell_us.json?dl=1",
+        "target": "def",
+        "enable": true,
+        "show_price": true
+      },
+      {
+        "data_file_url": "https://www.dropbox.com/s/3bv9a4vs4x12e82/item_sell_vi.json?dl=1",
+        "target": "vn",
+        "enable": true,
+        "show_price": true
+      },
+      {
+        "data_file_url": "https://www.dropbox.com/s/arxu8570dfih293/item_sell_us.json?dl=1",
+        "target": "us",
+        "enable": true,
+        "show_price": true
+      }
+    ]
+  },
+  "moreapp_config": {
+    "moreapp": [
+      {
+        "title": "BTS 2048 Game",
+        "text": "An awesome game for ARMY and you never be bored",
+        "iconUrl": "https://www.dropbox.com/s/gzie290hrdwy9vs/icon_2.png?dl=1",
+        "mainImageUrl": "https://www.dropbox.com/s/t19pdyou0xg5iuf/cover.png?dl=1",
+        "actionUrl": "com.faizy.bts.game2048",
+        "stars": 5,
+        "numberOfUser": 100000
+      }
+    ]
+  }
+}
